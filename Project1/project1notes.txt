@@ -1,0 +1,20 @@
+
+Reimburse allowed for :
+                        1. University courses
+                        2. Seminars
+                        3. Certification preparation classes
+                        4. Certifications
+                        5. Technical training
+
+Reimbursement amount for each employee = $1000 in any given calendar year
+
+Every new year amount available becomes $1000
+
+Reimbursement coverage:
+                        University courses = 80%
+                        Seminars = 60%
+                        Certification preparation classes = 75%
+                        Certification = 100%
+                        Technical training = 90%
+                        Other = 30%
+                        
